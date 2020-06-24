@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="password">Password</string>
+    <string name="username_or_phone_number">Username or Phone number</string>
+    <string name="todo">TODO</string>
+    <string name="log_in">Log in</string>
+    <string name="or">OR</string>
+    <string name="create_a_new_facebook_account">Create a new Facebook account</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="first_name">First Name</string>
+    <string name="what_s_your_email_address">What\'s your Email Address?</string>
+    <string name="email_address">Email Address</string>
+    <string name="what_s_your_password">What\'s your Password?</string>
+    <string name="what_s_your_phone_number">What\'s your Phone Number?</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="what_s_your_date_of_birth">What\'s your Date of Birth?</string>
+</resources>
